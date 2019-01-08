@@ -25,12 +25,13 @@
     "react-dom": "^16.5.2"
   },
   "devDependencies": {
-    "@babel/core": "^7.0.0",
-    "@babel/plugin-proposal-class-properties": "^7.0.0",
-    "@babel/preset-env": "^7.0.0",
+    "@babel/core": "^7.1.0",
+    "@babel/plugin-proposal-class-properties": "^7.2.3",
+    "@babel/polyfill": "^7.0.0",
+    "@babel/preset-env": "^7.1.0",
     "@babel/preset-react": "^7.0.0",
     "babel-eslint": "^10.0.0",
-    "babel-loader": "^8.0.0",
+    "babel-loader": "^8.0.2",
     "clean-webpack-plugin": "^0.1.19",
     "concurrently": "^4.0.0",
     "css-loader": "^1.0.0",
