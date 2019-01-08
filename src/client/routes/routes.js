@@ -6,7 +6,7 @@ import UploadFile from '../pages/upload/uploadFile';
 
 export default () => (
     <Switch>
-        {/* <Route exact path="/" component={Home} /> */}
+        <Route exact path="/" component={MailGroup} />
         <Route exact path="/mailgroup" component={MailGroup} />
         <Route exact path="/createMailList/uploadFile" component={UploadFile} />
         {/* <Route exact path="/posts" component={Post} /> */}
