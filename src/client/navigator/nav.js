@@ -9,8 +9,8 @@ export default class Nav extends Component {
                 <nav className="navbar is-light" role="navigation" aria-label="main navigation">
                     <div className="container">
                         <div className="navbar-brand">
-                            <a className="navbar-item" href="https://devahoy.com">
-                                <img src={process.env.PUBLIC_URL + '/images/devahoy-text-logo.png'} alt="DEVAHOY LOGO" width="112" height="28" />
+                            <a className="navbar-item" href="http://localhost:3000/#/">
+                                <img src={'https://cdn.taximail.com/webasset/images/cabby/cabby_signup_01.png?v=12'} alt="DEVAHOY LOGO" width="10%"  />
                             </a>
                         </div>
                         <div className="navbar-menu">
