@@ -10,7 +10,7 @@ export default class Nav extends Component {
                     <div className="container">
                         <div className="navbar-brand">
                             <a className="navbar-item" href="http://localhost:3000/#/">
-                                <img src={'https://cdn.taximail.com/webasset/images/cabby/cabby_signup_01.png?v=12'} alt="DEVAHOY LOGO" width="10%"  />
+                                <img src={'https://cdn.taximail.com/webasset/images/cabby/cabby_signup_01.png?v=12'} alt="DEVAHOY LOGO" width="10%" />
                             </a>
                         </div>
                         <div className="navbar-menu">
